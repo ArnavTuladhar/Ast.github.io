@@ -51,7 +51,7 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Image
 
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
+![alt text](https://images.ps-aws.com/c?url=https%3A%2F%2Fimages.teamtalk.com%2Fcontent%2Fuploads%2F2024%2F02%2F05102705%2Fman-utd-stars-rasmus-hojlund-alejandro-garnacho-kobbie-mainoo.jpg)
 
 ## Extended Syntax
 
