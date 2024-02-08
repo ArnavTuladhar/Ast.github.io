@@ -9,10 +9,9 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Things to admire about Pokchi
 
-# Double Chin
-## Belly Fat
-### Chubby Cheeks
-#### Just FAT
+# H1
+## H2
+### H3
 
 ### Bold
 
