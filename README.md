@@ -7,11 +7,12 @@ This Markdown cheat sheet provides a quick overview of all the Markdown syntax e
 
 These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
 
-### Heading
+### Things to admire about Pokchi
 
-# H1
-## H2
-### H3
+# Double Chin
+## Belly Fat
+### Chubby Cheeks
+#### Just FAT
 
 ### Bold
 
